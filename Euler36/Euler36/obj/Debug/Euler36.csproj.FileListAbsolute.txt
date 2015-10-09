@@ -1,0 +1,6 @@
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\bin\Debug\Euler36.exe.config
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\bin\Debug\Euler36.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\bin\Debug\Euler36.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\obj\Debug\Euler36.csprojResolveAssemblyReference.cache
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\obj\Debug\Euler36.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler36\Euler36\obj\Debug\Euler36.pdb

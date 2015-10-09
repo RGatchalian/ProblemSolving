@@ -1,0 +1,6 @@
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\bin\Debug\Euler18.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\bin\Debug\Euler18.exe.config
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\obj\Debug\Euler18.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\obj\Debug\Euler18.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\bin\Debug\Euler18.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler18\Euler18\obj\Debug\Euler18.csprojResolveAssemblyReference.cache

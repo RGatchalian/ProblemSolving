@@ -1,0 +1,6 @@
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\bin\Debug\Euler37.exe.config
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\bin\Debug\Euler37.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\bin\Debug\Euler37.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\obj\Debug\Euler37.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\obj\Debug\Euler37.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler37\Euler37\obj\Debug\Euler37.csprojResolveAssemblyReference.cache

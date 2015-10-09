@@ -1,0 +1,6 @@
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\bin\Debug\Euler17.exe.config
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\bin\Debug\Euler17.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\bin\Debug\Euler17.pdb
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\obj\Debug\Euler17.csprojResolveAssemblyReference.cache
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\obj\Debug\Euler17.exe
+C:\Users\Reydan\Documents\oc_files\Laptop Files\git_repo\visual_studio\VisualStudioProj\Euler17\Euler17\obj\Debug\Euler17.pdb
