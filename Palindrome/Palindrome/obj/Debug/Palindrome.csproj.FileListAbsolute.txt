@@ -1,0 +1,6 @@
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+c:\users\rg026732\documents\visual studio 2015\Projects\Logics\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
